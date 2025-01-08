@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/GlobeTrekker/static/css/main.83d86782.css",
+    "main.js": "/GlobeTrekker/static/js/main.6eccadac.js",
+    "static/js/488.4eb62907.chunk.js": "/GlobeTrekker/static/js/488.4eb62907.chunk.js",
+    "static/media/video.mp4": "/GlobeTrekker/static/media/video.fa1cdbf9a9a457b471d7.mp4",
+    "static/media/home1.jpg": "/GlobeTrekker/static/media/home1.f2497e538d340d4b9c97.jpg",
+    "static/media/home2.jpg": "/GlobeTrekker/static/media/home2.edecd53cff0a2872f16a.jpg",
+    "static/media/discover1.jpg": "/GlobeTrekker/static/media/discover1.09551965ce057e0e5816.jpg",
+    "static/media/about1.jpg": "/GlobeTrekker/static/media/about1.5e88f34da464d92484f0.jpg",
+    "static/media/about2.jpg": "/GlobeTrekker/static/media/about2.24aa03319d57a1ac56f3.jpg",
+    "static/media/place5.jpg": "/GlobeTrekker/static/media/place5.c2d2bb065b47c0bec32b.jpg",
+    "static/media/discover4.jpg": "/GlobeTrekker/static/media/discover4.7b73ae770fbffe633d6b.jpg",
+    "static/media/place1.jpg": "/GlobeTrekker/static/media/place1.1dd70efcbfaedc9bb42d.jpg",
+    "static/media/experience2.jpg": "/GlobeTrekker/static/media/experience2.18c33ee841dd8b92a385.jpg",
+    "static/media/experience1.jpg": "/GlobeTrekker/static/media/experience1.fb625db6f473a12bdc25.jpg",
+    "static/media/place3.jpg": "/GlobeTrekker/static/media/place3.f3c6a05b8d473788c362.jpg",
+    "static/media/place2.jpg": "/GlobeTrekker/static/media/place2.5d5b826103c254965464.jpg",
+    "static/media/discover2.jpg": "/GlobeTrekker/static/media/discover2.b00b7cdea44f5c500ed4.jpg",
+    "static/media/place4.jpg": "/GlobeTrekker/static/media/place4.6927baa29a8708e1ae12.jpg",
+    "index.html": "/GlobeTrekker/index.html",
+    "main.83d86782.css.map": "/GlobeTrekker/static/css/main.83d86782.css.map",
+    "main.6eccadac.js.map": "/GlobeTrekker/static/js/main.6eccadac.js.map",
+    "488.4eb62907.chunk.js.map": "/GlobeTrekker/static/js/488.4eb62907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d86782.css",
+    "static/js/main.6eccadac.js"
+  ]
+}
