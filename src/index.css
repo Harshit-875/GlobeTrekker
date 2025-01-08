@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI',-apple-system, BlinkMacSystemFont,  'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(22 37 39);
+  color: white;
+  font-size: "16px";
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* Add this CSS in your global or component-specific CSS file */
+.zoom-img {
+  transition: transform 0.5s ease-in-out; /* Smooth zoom effect */
+}
+
+.zoom-img:hover {
+  transform: scale(1.1); /* Zoom in effect when hovered */
+}
